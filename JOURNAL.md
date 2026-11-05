@@ -14,3 +14,4 @@ Note: PR flow failed (GitHub API returned 403, token is Contents-only and lacks 
 ## 2026-11-05
 
 Received the first real reply among the current applications — a rejection from MetaMask (Consensys) for the VIP Client Manager (China) role via Greenhouse, closing that line. Also drafted a 1-minute English self-introduction from real experience (game-account trading, ~1.62M RMB in sales) and prepared a gentle follow-up note for the Hotcoin trader thread with Marina King, whose reply is still pending.
+Note: PR flow failed (GitHub API returned 403, token is Contents-only and lacks pull-request permission), so this entry was pushed directly to main.
