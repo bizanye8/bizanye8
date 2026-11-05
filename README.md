@@ -26,6 +26,13 @@
 <img src="assets/track-record.svg" alt="Track record" width="100%" />
 </div>
 
+### Selected work
+
+- 🎯 **[Spot DCA Planner](https://github.com/bizanye8/spot-dca-planner)** — staged spot-buying planner with a backtest engine over 1,000 days of real price history · **[▶ live demo](https://bizanye8.github.io/spot-dca-planner/)**
+- 📊 **[Web3 Market Brief](https://github.com/bizanye8/web3-market-brief)** — a market brief that writes itself: prices, funding rates and fear & greed, committed daily by GitHub Actions
+- 🎮 **[Web3 Gaming Ops Playbook](https://github.com/bizanye8/web3-gaming-ops-playbook)** — how 207 accounts and ≈¥1.62M of Web3 gaming operations were actually run
+- 🕹️ **[Youjian Mobile](https://github.com/bizanye8/youjian-mobile-app)** — the game-asset trading platform I founded, mobile v1
+
 ### Right now
 
 - 🚀 Launching **Youjian** (mobile) — November 2026
