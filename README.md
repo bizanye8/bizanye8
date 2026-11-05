@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/banner.webp" alt="BizAnyE — the serpent and the market" width="100%" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Web3+Operations+%26+Community;Founder+%E2%80%94+Youjian+Game-Asset+Trading+Platform;Crypto+Trader+%C2%B7+3%2B+Years;Building+in+Public.+Daily." alt="BizAnyE" />
 
 # BizAnyE
