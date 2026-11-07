@@ -19,3 +19,7 @@ Note: PR flow failed (GitHub API returned 403, token is Contents-only and lacks 
 ## 2026-11-06
 
 Scanned new job posts from Nov 3–6: zero qualified openings at the ~5,000 USDT/month baseline — the closest, Onchain Head of Operations (remote, Europe hours), was ruled out (no salary listed, spoken-English requirement in the job description). Also backfilled the daily market brief manually after the 09:15 scheduled GitHub Actions run failed to fire; BTC $75,888 (−5.8%), ETH $2,235 (−7.8%), fear & greed index dropped 50 → 28.
+
+## 2026-11-07
+
+Decided on an external-trigger fallback for the daily market brief: GitHub Actions scheduled runs fired ~6 hours late two days in a row (Nov 6 brief landed 15:52, Nov 7 at 15:03), so a manual 09:15 run now guarantees the brief arrives on time. Also verified the Risk Labs (UMA/Across) Community Manager role is closed — zero open roles on the official Ashby board and the Lever application link returns 404 — and kept the HackenProof watch quiet: no verdicts, reputation steady at 75.
