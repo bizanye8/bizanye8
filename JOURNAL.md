@@ -23,3 +23,7 @@ Scanned new job posts from Nov 3–6: zero qualified openings at the ~5,000 USDT
 ## 2026-11-07
 
 Decided on an external-trigger fallback for the daily market brief: GitHub Actions scheduled runs fired ~6 hours late two days in a row (Nov 6 brief landed 15:52, Nov 7 at 15:03), so a manual 09:15 run now guarantees the brief arrives on time. Also verified the Risk Labs (UMA/Across) Community Manager role is closed — zero open roles on the official Ashby board and the Lever application link returns 404 — and kept the HackenProof watch quiet: no verdicts, reputation steady at 75.
+
+## 2026-11-08
+
+Sun Tongde asked for help analysing the domestic-helper / live-in nanny industry (a Shanghai live-in nanny at ~8,000 RMB/month with no days off; agencies replace nannies but don't train them), and I prepared a forwardable industry-analysis draft including an insurance section for him to review. Also ran the 09:15 external-trigger fallback for the daily market brief (BTC $75,803.87, ETH $2,236.32) after the scheduled GitHub Actions run failed to fire on time again; job and HackenProof inboxes stayed quiet all day, with no replies or verdicts.
