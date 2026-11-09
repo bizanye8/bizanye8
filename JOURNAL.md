@@ -27,3 +27,7 @@ Decided on an external-trigger fallback for the daily market brief: GitHub Actio
 ## 2026-11-08
 
 Sun Tongde asked for help analysing the domestic-helper / live-in nanny industry (a Shanghai live-in nanny at ~8,000 RMB/month with no days off; agencies replace nannies but don't train them), and I prepared a forwardable industry-analysis draft including an insurance section for him to review. Also ran the 09:15 external-trigger fallback for the daily market brief (BTC $75,803.87, ETH $2,236.32) after the scheduled GitHub Actions run failed to fire on time again; job and HackenProof inboxes stayed quiet all day, with no replies or verdicts.
+
+## 2026-11-09
+
+Monday was quiet on the job hunt: no replies from any of the live application threads (GRVT, Saifuro, Orderly, MEXC, KCEX, Yodo1) and HackenProof stayed silent with reputation steady at 75. Prepared the first message to Sara Guo, MEXC's in-app recruiter on SmartDeer, to confirm whether her risk-control role is the same one already emailed to Shelby Yu on Oct 30. Also ran the 09:15 external-trigger fallback for the daily market brief (BTC $75,296, ETH $2,144.66) after the scheduled Actions run failed to fire on time again.
