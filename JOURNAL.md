@@ -31,3 +31,7 @@ Sun Tongde asked for help analysing the domestic-helper / live-in nanny industry
 ## 2026-11-09
 
 Monday was quiet on the job hunt: no replies from any of the live application threads (GRVT, Saifuro, Orderly, MEXC, KCEX, Yodo1) and HackenProof stayed silent with reputation steady at 75. Prepared the first message to Sara Guo, MEXC's in-app recruiter on SmartDeer, to confirm whether her risk-control role is the same one already emailed to Shelby Yu on Oct 30. Also ran the 09:15 external-trigger fallback for the daily market brief (BTC $75,296, ETH $2,144.66) after the scheduled Actions run failed to fire on time again.
+
+## 2026-11-10
+
+Restarted the HackenProof bounty-hunting line on the user's order, with the work order fixed as jobs first, then bugs. Ran a full-platform recon of all 433 HackenProof programs (live → price table → reputation gate): 158 live, main pool 17 + backup 4, full report saved. The Monday job-posting peak scan came back empty — 0 real matches in the Nov 7–10 window, with the closest posts killed by residency limits (Binance roles limited to the Philippines / Kazakhstan / Vietnam) or being off-target (Coinbase all engineers).
