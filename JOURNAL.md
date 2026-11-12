@@ -39,3 +39,7 @@ Restarted the HackenProof bounty-hunting line on the user's order, with the work
 ## 2026-11-11
 
 Closed the overnight seven-target bounty sweep (Cronos, XOXNO, TruFin, Onyx, Silo, Zest, Arcadia) with zero submittable candidates — the free tier's decent programs are all thoroughly audited and patched. Finished the SynFutures front-end analysis (F1): the S2 order-payload mix was quantified (preview 10x leverage can sign as 20x in reality), graded Low on its own so it won't unlock the Rhea code gate, and the user confirmed the KYC check is done. Also shipped the daily bounty-program watch (09:45 diff over HackenProof + Immunefi baselines) and the 09:15 market-brief fallback (BTC $73,447, ETH $2,046); the job hunt stayed quiet with no replies from any live thread.
+
+## 2026-11-12
+
+Ran the daily bounty-program watch (09:45 diff over HackenProof + Immunefi baselines): no new programs, Immunefi delisted Veda, and 1inch raised its submission fee from $20 to $50 across all seven programs — further out of scope under the free-only rule. Re-checked the Money on Chain OBS-1 lead and it is still dormant: the RIF price feed has had no new publication for ~10 days, so the candidate stays shelved. Shipped the 09:15 market-brief fallback (BTC $73,782, ETH $2,051.82, SOL $83.19) and kept both inboxes quiet all day — no job replies, no HackenProof verdicts, reputation steady at 75.
