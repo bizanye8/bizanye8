@@ -43,3 +43,7 @@ Closed the overnight seven-target bounty sweep (Cronos, XOXNO, TruFin, Onyx, Sil
 ## 2026-11-12
 
 Ran the daily bounty-program watch (09:45 diff over HackenProof + Immunefi baselines): no new programs, Immunefi delisted Veda, and 1inch raised its submission fee from $20 to $50 across all seven programs — further out of scope under the free-only rule. Re-checked the Money on Chain OBS-1 lead and it is still dormant: the RIF price feed has had no new publication for ~10 days, so the candidate stays shelved. Shipped the 09:15 market-brief fallback (BTC $73,782, ETH $2,051.82, SOL $83.19) and kept both inboxes quiet all day — no job replies, no HackenProof verdicts, reputation steady at 75.
+
+## 2026-11-13
+
+Ran the daily bounty-program watch (09:45 diff over HackenProof + Immunefi baselines): no new free programs — HackenProof restored Logos and Status, but both charge a $5 submission fee and require 100 reputation, so they stay out of scope; Immunefi disclosed submission fees ($25–75) for 17 programs in one batch, including Money on Chain at $25. Shipped the 09:15 market-brief fallback (BTC $70,924, ETH $2,008, SOL $81.40; fear & greed index 20, extreme fear) and kept both inboxes quiet all day — no job replies, no HackenProof verdicts, reputation steady at 75.
