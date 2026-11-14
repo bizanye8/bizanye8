@@ -47,3 +47,7 @@ Ran the daily bounty-program watch (09:45 diff over HackenProof + Immunefi basel
 ## 2026-11-13
 
 Ran the daily bounty-program watch (09:45 diff over HackenProof + Immunefi baselines): no new free programs — HackenProof restored Logos and Status, but both charge a $5 submission fee and require 100 reputation, so they stay out of scope; Immunefi disclosed submission fees ($25–75) for 17 programs in one batch, including Money on Chain at $25. Shipped the 09:15 market-brief fallback (BTC $70,924, ETH $2,008, SOL $81.40; fear & greed index 20, extreme fear) and kept both inboxes quiet all day — no job replies, no HackenProof verdicts, reputation steady at 75.
+
+## 2026-11-14
+
+Ran the daily bounty-program watch (09:45 diff over HackenProof + Immunefi baselines): one new program, NoirWallet, but its $10 submission fee keeps it out of scope under the free-only rule; Immunefi delisted Ondo Finance, while ShapeShift dropped its reputation gate and Starknet Web & SC lowered theirs from 120 to 100. Shipped the 09:15 market-brief fallback (BTC $68,263, ETH $1,930.16, SOL $77.51) and kept both inboxes quiet all day — no job replies, no HackenProof verdicts, reputation steady at 75. The Plether contest deadline (Nov 16, 18:00) is two days out and the MED-7 gamble still awaits the user's call.
