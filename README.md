@@ -32,12 +32,37 @@
 <img src="assets/track-record.svg" alt="Track record" width="100%" />
 </div>
 
+### Skills
+
+![Web3 Operations](https://img.shields.io/badge/Web3_Operations-2f81f7?style=flat-square)
+![Community](https://img.shields.io/badge/Community-2f81f7?style=flat-square)
+![Web3 Gaming](https://img.shields.io/badge/Web3_Gaming-2f81f7?style=flat-square)
+![Crypto Trading](https://img.shields.io/badge/Crypto_Trading-2f81f7?style=flat-square)
+![Mandarin / Cantonese](https://img.shields.io/badge/Mandarin_%2F_Cantonese-3fb950?style=flat-square)
+
 ### Selected work
 
 - 🎯 **[Spot DCA Planner](https://github.com/bizanye8/spot-dca-planner)** — staged spot-buying planner with a backtest engine over 1,000 days of real price history · **[▶ live demo](https://bizanye8.github.io/spot-dca-planner/)**
 - 📊 **[Web3 Market Brief](https://github.com/bizanye8/web3-market-brief)** — a market brief that writes itself: prices, funding rates and fear & greed, committed daily by GitHub Actions
 - 🎮 **[Web3 Gaming Ops Playbook](https://github.com/bizanye8/web3-gaming-ops-playbook)** — how 207 accounts and ≈¥1.62M of Web3 gaming operations were actually run
 - 🕹️ **[Youjian Mobile](https://github.com/bizanye8/youjian-mobile-app)** — the game-asset trading platform I founded, mobile v1
+
+### All projects
+
+| Project | What it is |
+| --- | --- |
+| [bizanye8](https://github.com/bizanye8/bizanye8) | This profile — daily log, selected work and contact hub |
+| [bizanye8.github.io](https://github.com/bizanye8/bizanye8.github.io) | Personal portfolio site |
+| [spot-dca-planner](https://github.com/bizanye8/spot-dca-planner) | Spot DCA planning tool for crypto |
+| [web3-market-brief](https://github.com/bizanye8/web3-market-brief) | Daily Web3 market brief, auto-generated |
+| [web3-gaming-ops-playbook](https://github.com/bizanye8/web3-gaming-ops-playbook) | Web3 gaming operations playbook |
+| [youjian-mobile-app](https://github.com/bizanye8/youjian-mobile-app) | Youjian game-asset trading platform, mobile web |
+
+### Start here
+
+- 📊 [Daily market brief](https://github.com/bizanye8/web3-market-brief) — today's brief lives in that repo's `latest.md`
+- 📓 [Daily log](JOURNAL.md) — what I built, traded and learned, day by day
+- 🌐 [Portfolio site](https://bizanye8.github.io/) — everything on one page
 
 ### Right now
 
@@ -73,6 +98,6 @@
 
 *“I don’t decorate numbers. I earn them.”*
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/bizanye) · [X / @BizAnyELab](https://x.com/BizAnyELab)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/bizanye) · [X / @BizAnyELab](https://x.com/BizAnyELab) · [Telegram / @BizAnyE](https://t.me/BizAnyE)
 
 </div>
