@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bizanye)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BizAnyELab)
 ![Location](https://img.shields.io/badge/Nanjing,_China-1f6feb?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=bizanye8&style=for-the-badge&color=2f81f7&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=bizanyelab&style=for-the-badge&color=2f81f7&label=Profile+Views)
 
 </div>
 
@@ -42,27 +42,27 @@
 
 ### Selected work
 
-- 🎯 **[Spot DCA Planner](https://github.com/bizanye8/spot-dca-planner)** — staged spot-buying planner with a backtest engine over 1,000 days of real price history · **[▶ live demo](https://bizanye8.github.io/spot-dca-planner/)**
-- 📊 **[Web3 Market Brief](https://github.com/bizanye8/web3-market-brief)** — a market brief that writes itself: prices, funding rates and fear & greed, committed daily by GitHub Actions
-- 🎮 **[Web3 Gaming Ops Playbook](https://github.com/bizanye8/web3-gaming-ops-playbook)** — how 207 accounts and ≈¥1.62M of Web3 gaming operations were actually run
-- 🕹️ **[Youjian Mobile](https://github.com/bizanye8/youjian-mobile-app)** — the game-asset trading platform I founded, mobile v1
+- 🎯 **[Spot DCA Planner](https://github.com/bizanyelab/spot-dca-planner)** — staged spot-buying planner with a backtest engine over 1,000 days of real price history · **[▶ live demo](https://bizanyelab.github.io/spot-dca-planner/)**
+- 📊 **[Web3 Market Brief](https://github.com/bizanyelab/web3-market-brief)** — a market brief that writes itself: prices, funding rates and fear & greed, committed daily by GitHub Actions
+- 🎮 **[Web3 Gaming Ops Playbook](https://github.com/bizanyelab/web3-gaming-ops-playbook)** — how 207 accounts and ≈¥1.62M of Web3 gaming operations were actually run
+- 🕹️ **[Youjian Mobile](https://github.com/bizanyelab/youjian-mobile-app)** — the game-asset trading platform I founded, mobile v1
 
 ### All projects
 
 | Project | What it is |
 | --- | --- |
-| [bizanye8](https://github.com/bizanye8/bizanye8) | This profile — daily log, selected work and contact hub |
-| [bizanye8.github.io](https://github.com/bizanye8/bizanye8.github.io) | Personal portfolio site |
-| [spot-dca-planner](https://github.com/bizanye8/spot-dca-planner) | Spot DCA planning tool for crypto |
-| [web3-market-brief](https://github.com/bizanye8/web3-market-brief) | Daily Web3 market brief, auto-generated |
-| [web3-gaming-ops-playbook](https://github.com/bizanye8/web3-gaming-ops-playbook) | Web3 gaming operations playbook |
-| [youjian-mobile-app](https://github.com/bizanye8/youjian-mobile-app) | Youjian game-asset trading platform, mobile web |
+| [bizanyelab](https://github.com/bizanyelab/bizanyelab) | This profile — daily log, selected work and contact hub |
+| [bizanyelab.github.io](https://github.com/bizanyelab/bizanyelab.github.io) | Personal portfolio site |
+| [spot-dca-planner](https://github.com/bizanyelab/spot-dca-planner) | Spot DCA planning tool for crypto |
+| [web3-market-brief](https://github.com/bizanyelab/web3-market-brief) | Daily Web3 market brief, auto-generated |
+| [web3-gaming-ops-playbook](https://github.com/bizanyelab/web3-gaming-ops-playbook) | Web3 gaming operations playbook |
+| [youjian-mobile-app](https://github.com/bizanyelab/youjian-mobile-app) | Youjian game-asset trading platform, mobile web |
 
 ### Start here
 
-- 📊 [Daily market brief](https://github.com/bizanye8/web3-market-brief) — today's brief lives in that repo's `latest.md`
+- 📊 [Daily market brief](https://github.com/bizanyelab/web3-market-brief) — today's brief lives in that repo's `latest.md`
 - 📓 [Daily log](JOURNAL.md) — what I built, traded and learned, day by day
-- 🌐 [Portfolio site](https://bizanye8.github.io/) — everything on one page
+- 🌐 [Portfolio site](https://bizanyelab.github.io/) — everything on one page
 
 ### Right now
 
@@ -80,14 +80,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bizanye8&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bizanyelab&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-<img src="https://ghchart.rshah.org/2f81f7/bizanye8" alt="Contribution chart" width="100%" />
+<img src="https://ghchart.rshah.org/2f81f7/bizanyelab" alt="Contribution chart" width="100%" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bizanye8/bizanye8/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bizanye8/bizanye8/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bizanye8/bizanye8/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bizanyelab/bizanyelab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bizanyelab/bizanyelab/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bizanyelab/bizanyelab/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
