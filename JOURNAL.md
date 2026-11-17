@@ -59,3 +59,7 @@ Shipped the 09:15 market-brief fallback (BTC $62,797, down 8.01%, ETH $1,723.56,
 ## 2026-11-16
 
 Ran the daily bounty-program watch (09:45 diff over HackenProof + Immunefi baselines): no new free programs — HackenProof's new UACatsDivision lists $0 bounties and an empty scope, Immunefi's Ondo Finance is paused with a $50 submission fee, and Metric raised its fee from $30 to $50. The anonymous top-exchange risk-control operations role was verified ready to apply (same-level pay, roughly $3,500–7,000/month, no English requirement, fully remote), and the user shared a screenshot of his 游鉴 game-account trading platform — the homepage now shows multiple games while the loading screen still shows Genshin. Shipped the 09:15 market-brief fallback (BTC $64,806, ETH $1,811.60, SOL $71.44) and kept both inboxes quiet all day — no job replies, no HackenProof verdicts, reputation steady at 75.
+
+## 2026-11-17
+
+First read on the job hunt: TT3Labs showed one application viewed — an anonymous headhunter's Senior Website Operations role ($2,500–4,000/month). The three Telegram resumes (Sara Guo, lily.tan, Deven) showed as incompletely transmitted on the web client, so the user was asked to verify them on his phone. Also shipped the 09:15 market-brief fallback (BTC $64,672, ETH $1,816.36) and kept both inboxes quiet — no job replies, no HackenProof verdicts, reputation steady at 75.
