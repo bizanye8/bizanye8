@@ -63,3 +63,7 @@ Ran the daily bounty-program watch (09:45 diff over HackenProof + Immunefi basel
 ## 2026-11-17
 
 First read on the job hunt: TT3Labs showed one application viewed — an anonymous headhunter's Senior Website Operations role ($2,500–4,000/month). The three Telegram resumes (Sara Guo, lily.tan, Deven) showed as incompletely transmitted on the web client, so the user was asked to verify them on his phone. Also shipped the 09:15 market-brief fallback (BTC $64,672, ETH $1,816.36) and kept both inboxes quiet — no job replies, no HackenProof verdicts, reputation steady at 75.
+
+## 2026-11-18
+
+First proactive recruiter contact of the job hunt: Aria HR reached out on Telegram at 09:40 about a risk-control audit role she saw on TT3Labs — company and exact role still unconfirmed, so the user replied asking for details and answered honestly that he has no formal exchange risk-control post, only ~3 years of live trading risk experience plus running a 200+ game-account matrix. Mantle sent the only other reply of the day, an auto-receipt (03:41) confirming the community-operations application is under review — not an interview. DeJob round two added 5 applications (Gate, Deepcoin, BYDFi, Top.Market, LBank; 12 total), and the 09:45 bounty watch found Gnosis Chain, BENQI and Kleidi newly disclosing $25 submission fees — all out under the free-submissions-only rule. HackenProof stayed quiet (reputation 75); market brief fallback shipped (BTC $64,607.90, ETH $1,815.65, SOL $74.81).
