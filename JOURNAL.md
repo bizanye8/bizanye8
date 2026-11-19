@@ -67,3 +67,7 @@ First read on the job hunt: TT3Labs showed one application viewed — an anonymo
 ## 2026-11-18
 
 First proactive recruiter contact of the job hunt: Aria HR reached out on Telegram at 09:40 about a risk-control audit role she saw on TT3Labs — company and exact role still unconfirmed, so the user replied asking for details and answered honestly that he has no formal exchange risk-control post, only ~3 years of live trading risk experience plus running a 200+ game-account matrix. Mantle sent the only other reply of the day, an auto-receipt (03:41) confirming the community-operations application is under review — not an interview. DeJob round two added 5 applications (Gate, Deepcoin, BYDFi, Top.Market, LBank; 12 total), and the 09:45 bounty watch found Gnosis Chain, BENQI and Kleidi newly disclosing $25 submission fees — all out under the free-submissions-only rule. HackenProof stayed quiet (reputation 75); market brief fallback shipped (BTC $64,607.90, ETH $1,815.65, SOL $74.81).
+
+## 2026-11-19
+
+Applied to a risk-control operations role at starpago via TT3Labs (USD 1,500–3,000/month; TT3Labs applications now total 41) and received a rejection from Productive Playhouse for the Simplified Chinese AI Product Evaluator role, closing that line. HackenProof stayed quiet — no new verdicts on the reports under review and reputation steady at 75.
