@@ -71,3 +71,7 @@ First proactive recruiter contact of the job hunt: Aria HR reached out on Telegr
 ## 2026-11-19
 
 Applied to a risk-control operations role at starpago via TT3Labs (USD 1,500–3,000/month; TT3Labs applications now total 41) and received a rejection from Productive Playhouse for the Simplified Chinese AI Product Evaluator role, closing that line. HackenProof stayed quiet — no new verdicts on the reports under review and reputation steady at 75.
+
+## 2026-11-20
+
+First real recruiter movement of the job hunt: Aria HR replied that the formal risk-control post is not a strong match, but she has already recommended him and asked whether he would start as a risk-control intern — he accepted. Terms on the table: base 1,000–1,500 USDT/month plus 100–500 USDT/month performance pay (1,100–2,000 total), four rotating 8-hour shifts including nights, and a transfer-to-permanent opportunity, with interviews not yet started — the company name is still undisclosed, so the line now waits for her to schedule an interview. HackenProof stayed quiet (reputation 75); the 09:45 bounty watch found only a time jump on Immunefi's Hedera, no new free programs; the market-brief fallback shipped (BTC $62,347, ETH $1,763.72, SOL $73.22).
